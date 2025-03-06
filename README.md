@@ -15,6 +15,7 @@ Currently, the Teleport Pack is available in the following languages:
 
 - [English](https://github.com/boreki/Teleport-pack/tree/main/en)
 - [Russian](https://github.com/boreki/Teleport-pack/tree/main/ru)
+- [中文](https://github.com/boreki/Teleport-pack/tree/main/zh)
 
 ## How to Contribute
 
@@ -38,3 +39,4 @@ Thank you for contributing!
 ---
 
 For the Russian version of this document, please refer to [README_ru.md](README_ru.md).
+For the Chineseversion of this document, please refer to [README_zh.md](README_zh.md).
